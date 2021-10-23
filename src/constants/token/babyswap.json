@@ -1,0 +1,64 @@
+{
+    "name": "BabySwap Default List",
+    "version": {
+        "major": 2,
+        "minor": 10,
+        "patch": 0
+    },
+    "timestamp": "2021-03-17T09:56:23Z",
+    "logoURI": "https://exchange.babywap.finance/images/babyswap.png",
+    "keywords": [
+        "babyswap",
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "BEE",
+            "symbol": "BEE",
+            "decimals": 18,
+            "chainId": 56,
+            "address": "0x0eFC606c582fCacF71dE0aE630c4ec7eb261E6Fb",
+            "logoURI": "https://btswap.obs.ap-southeast-3.myhuaweicloud.com/0x0eFC606c582fCacF71dE0aE630c4ec7eb261E6Fb.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 18,
+            "chainId": 56,
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "logoURI": "https://btswap.obs.ap-southeast-3.myhuaweicloud.com/0x55d398326f99059ff775485246999027b3197955.png"
+        },
+        {
+            "name": "BT",
+            "symbol": "BT",
+            "decimals": 18,
+            "chainId": 56,
+            "address": "0x26e9C1A86aDAD83Da1300DA5EF81b5c650Dbf5a7",
+            "logoURI": "https://btswap.obs.ap-southeast-3.myhuaweicloud.com/0x26e9c1a86adad83da1300da5ef81b5c650dbf5a7.png"
+        },
+        {
+            "name": "BOT",
+            "symbol": "BOT",
+            "decimals": 18,
+            "chainId": 56,
+            "address": "0x27B7F9360b2f14AF3e3Ef0de6e1765B6A73d62eF",
+            "logoURI": "https://btswap.obs.ap-southeast-3.myhuaweicloud.com/0x27B7F9360b2f14AF3e3Ef0de6e1765B6A73d62eF.png"
+        },
+        {
+            "name": "BEE",
+            "symbol": "BEE",
+            "decimals": 18,
+            "chainId": 97,
+            "address": "0xcAe09ad2049B1a87ce0396613cB3a2acA65aF6Ef",
+            "logoURI": "https://btswap.obs.ap-southeast-3.myhuaweicloud.com/0x16674D6d52857f4a73e7232Dd68024c0076Fec7A.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 18,
+            "chainId": 97,
+            "address": "0xc421EE10b4760DA47621698FeF7933377709950D",
+            "logoURI": "https://btswap.obs.ap-southeast-3.myhuaweicloud.com/0x55d398326f99059ff775485246999027b3197955.png"
+        }
+    ]
+}
